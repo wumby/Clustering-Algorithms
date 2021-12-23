@@ -1,0 +1,1 @@
+I have a fuzzy-c means clustering algorithm, a GK cluster algorithm, and a k-means algorithm to cluster data from a breast cancer dataset into 2 different classes. It will be either Malignant or Benign.
